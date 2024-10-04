@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm İhsan Tutak</h1>
-<h3 align="center">Data Analyst | Optimizing processes with data-driven insights. 📈</h3>
+<h3 align="center">Optimizing processes with data-driven insights. 📈</h3>
 
 <h3 align="left">Connect with me:</h3>
 
